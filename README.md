@@ -70,9 +70,11 @@ GPA - 3.86
 
 ###  Reach Me
 [![Email](https://img.shields.io/badge/Email-whogourav@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whogourav@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gourav--sharma1857-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gourav-sharma1857)
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-sharma-3b2558281)
+---
 [![LeetCode](https://img.shields.io/badge/LeetCode-gourav--sharma1857-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/GouravSharma5738)
+---
 
 
 ---
