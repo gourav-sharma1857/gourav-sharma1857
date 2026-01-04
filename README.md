@@ -1,16 +1,11 @@
-# 👋 Hi, I'm Gourav Sharma
+#  Hi, I'm Gourav Sharma
 
 I am a **Computer Science freshman** at the **University of Texas at Dallas**, passionate about **web development**, **AI**, and **machine learning**.  
 I focus on building projects that **solve real-world problems** and enhance user experiences with **intelligent systems**.
 
 ---
 
-### 🔭 Currently Working On
-Enhancing **AI integration** in web applications.
-
----
-
-### 🎓 Education
+### Education
 **B.S. in Computer Science** (Expected May 2029)  
 University of Texas at Dallas
 
@@ -50,7 +45,7 @@ University of Texas at Dallas
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### **Gesture-Math**
 - **Tech:** Python (Flask), MediaPipe, OpenCV, AI Integration  
@@ -66,21 +61,22 @@ University of Texas at Dallas
 
 ---
 
-### 🧠 Interests & Goals
+###  Interests & Goals
 - **AI Integration:** Building intelligent systems and integrating APIs into full-stack projects  
 - **CS Foundations:** Mastering data structures and algorithms to solve complex challenges  
 - **Full-Stack Development:** Creating scalable backends paired with user-friendly frontends  
 
 ---
 
-### 📫 Reach Me
+###  Reach Me
 - Email: [whogourav@gmail.com](mailto:whogourav@gmail.com)  
 - GitHub: [github.com/gourav-sharma1857](https://github.com/gourav-sharma1857)
 
 ---
 
-### 📊 GitHub Stats
-![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=radical)
-
+###  GitHub Stats
+![Gourav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-sharma1857&layout=compact&theme=radical)
+[![Gesture-Math](https://github-readme-stats.vercel.app/api/pin/?username=gourav-sharma1857&repo=Gesture-Math)](https://github.com/gourav-sharma1857/Gesture-Math)
+
 
