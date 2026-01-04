@@ -74,9 +74,15 @@ University of Texas at Dallas
 
 ---
 
-###  GitHub Stats
-![GitHub repo count](https://img.shields.io/github/repo-count/gourav-sharma1857?style=flat)
-[![Gesture-Math](https://img.shields.io/badge/Gesture-Math-Python%20Flask-orange)](https://github.com/gourav-sharma1857/Gesture-Math)
+### 📊 GitHub Stats & Featured Projects
+
+![Repo Count](https://img.shields.io/github/repo-count/gourav-sharma1857?style=flat&label=Public%20Repos)
+
+### 🚀 Featured Projects
+
+[![EduTrackr](https://img.shields.io/github/languages/top/gourav-sharma1857/EduTrackr?color=blue&label=EduTrackr)](https://github.com/gourav-sharma1857/EduTrackr)  
+[![Gesture-Math](https://img.shields.io/github/languages/top/gourav-sharma1857/Gesture-Math?color=orange&label=Gesture-Math)](https://github.com/gourav-sharma1857/Gesture-Math)
+
 
 
 
