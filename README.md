@@ -8,7 +8,8 @@ I focus on building projects that **solve real-world problems** and enhance user
 ### Education
 **B.S. in Computer Science** (Expected May 2029)  
 University of Texas at Dallas
-GPA - 3.86
+
+**GPA - 3.86**
 ---
 
 ### 🛠 Technical Skills
