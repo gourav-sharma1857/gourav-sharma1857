@@ -8,7 +8,7 @@ I focus on building projects that **solve real-world problems** and enhance user
 ### Education
 **B.S. in Computer Science** (Expected May 2029)  
 University of Texas at Dallas
-
+GPA - 3.86
 ---
 
 ### 🛠 Technical Skills
@@ -69,19 +69,14 @@ University of Texas at Dallas
 ---
 
 ###  Reach Me
-- Email: [whogourav@gmail.com](mailto:whogourav@gmail.com)  
-- GitHub: [github.com/gourav-sharma1857](https://github.com/gourav-sharma1857)
+[![Email](https://img.shields.io/badge/Email-whogourav@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whogourav@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gourav--sharma1857-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gourav-sharma1857)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-sharma-3b2558281)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gourav--sharma1857-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/GouravSharma5738)
+
 
 ---
 
-### 📊 GitHub Stats & Featured Projects
-
-![Repo Count](https://img.shields.io/github/repo-count/gourav-sharma1857?style=flat&label=Public%20Repos)
-
-### 🚀 Featured Projects
-
-[![EduTrackr](https://img.shields.io/github/languages/top/gourav-sharma1857/EduTrackr?color=blue&label=EduTrackr)](https://github.com/gourav-sharma1857/EduTrackr)  
-[![Gesture-Math](https://img.shields.io/github/languages/top/gourav-sharma1857/Gesture-Math?color=orange&label=Gesture-Math)](https://github.com/gourav-sharma1857/Gesture-Math)
 
 
 
