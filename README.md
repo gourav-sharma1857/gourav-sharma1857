@@ -75,12 +75,12 @@ University of Texas at Dallas
 
 ### 📫 Reach Me
 - Email: [whogourav@gmail.com](mailto:whogourav@gmail.com)  
-- GitHub: [github.com/Gourav123](https://github.com/Gourav123)
+- GitHub: [github.com/gourav-sharma1857](https://github.com/gourav-sharma1857)
 
 ---
 
 ### 📊 GitHub Stats
-![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav123&show_icons=true&theme=radical)
+![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-sharma1857&layout=compact&theme=radical)
 
