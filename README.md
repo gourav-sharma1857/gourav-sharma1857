@@ -75,8 +75,8 @@ University of Texas at Dallas
 ---
 
 ###  GitHub Stats
-![Gourav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-sharma1857&layout=compact&theme=radical)
-[![Gesture-Math](https://github-readme-stats.vercel.app/api/pin/?username=gourav-sharma1857&repo=Gesture-Math)](https://github.com/gourav-sharma1857/Gesture-Math)
+![GitHub repo count](https://img.shields.io/github/repo-count/gourav-sharma1857?style=flat)
+[![Gesture-Math](https://img.shields.io/badge/Gesture-Math-Python%20Flask-orange)](https://github.com/gourav-sharma1857/Gesture-Math)
+
 
 
