@@ -54,16 +54,15 @@ GPA - 3.86
 - Integrated **AI** to provide step-by-step explanations and graph generation  
 
 #### **College-Dashboard**
-- **Tech:** React, Firebase, Tailwind CSS  
+- **Tech:** React, Firebase, CSS  
 - Built a **full-stack student productivity app** with a GPA calculator, internship tracker, and assignment management  
 - Integrated **Firebase** for secure Google authentication and cross-device cloud storage  
 - Designed a **responsive UI** for seamless navigation
 
 #### **NotesCraft**
+- **Tech:** React, Firebase, CSS 
 - Built a block-based notes app for coding and technical documentation with rich text and code blocks.
-
 - Enabled real-time cloud sync and auto-save using Firebase for cross-device access.
-
 - Designed a clean, customizable UI with structured sections and reorderable content.
 
 ---
