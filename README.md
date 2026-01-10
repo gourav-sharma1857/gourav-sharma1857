@@ -73,6 +73,8 @@ GPA - 3.86
 - **Full-Stack Development:** Creating scalable backends paired with user-friendly frontends  
 
 ---
+[![LeetCode Stats](https://leetcode-git-card.vercel.app/api/card?username=GouravSharma5738&difficulty=true&activity=true&skills=true)](https://leetcode.com/GouravSharma5738)
+---
 
 ###  Reach Me
 [![Email](https://img.shields.io/badge/Email-whogourav@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whogourav@gmail.com)
