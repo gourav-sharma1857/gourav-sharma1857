@@ -6,7 +6,7 @@ I focus on building projects that **solve real-world problems** and enhance user
 ---
 
 ### Education
-**B.S. in Computer Science** (Expected May 2029)  
+**B.S. in Computer Science** (Expected May 2028)  
 University of Texas at Dallas.
 GPA - 3.86
 ---
@@ -83,9 +83,16 @@ GPA - 3.86
 ---
 [![LeetCode](https://img.shields.io/badge/LeetCode-gourav--sharma1857-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/GouravSharma5738)
 ---
-
+###  Relevant Coursework
+- Calculus II 
+- Computer Science I (C++)  
+- Discrete Mathematics  
+- Linear Algebra
+- Mechanics
 
 ---
+
+
 
 
 
