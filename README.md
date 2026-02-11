@@ -1,6 +1,6 @@
 #  Hi, I'm Gourav Sharma
 
-I am a **Computer Science major** at the **University of Texas at Dallas**, passionate about **web development**, **AI**, and **machine learning**.  
+I am a **Computer Science major** at the **University of Texas at Dallas**, passionate about **full stack development**, **AI**, and **machine learning**.  
 I focus on building projects that **solve real-world problems** and enhance user experiences with **intelligent systems**.
 
 ---
