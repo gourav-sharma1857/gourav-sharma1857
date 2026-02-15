@@ -5,6 +5,12 @@ I focus on building projects that **solve real-world problems** and enhance user
 
 ---
 
+<p align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GouravSharma5738&show_icons=true&theme=tokyonight" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSharma5738&layout=compact&theme=tokyonight" height="150" /></p>
+
 ### Education
 **B.S. in Computer Science** (Expected May 2028)  
 University of Texas at Dallas.
