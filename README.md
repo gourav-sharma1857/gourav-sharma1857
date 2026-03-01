@@ -11,6 +11,7 @@ I focus on building projects that **solve real-world problems** and enhance user
 University of Texas at Dallas.
 GPA - 3.86
 ---
+
 ###  Relevant Coursework
 - Calculus II 
 - Computer Science I (C++)  
