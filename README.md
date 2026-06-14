@@ -18,7 +18,7 @@
 **B.S. in Computer Science** — University of Texas at Dallas (Expected May 2028)
 GPA: 3.86
 
-**Relevant Coursework:** Calculus II · Computer Science I (C++) · Discrete Mathematics · Linear Algebra · Mechanics
+**Relevant Coursework:** Calculus II · Computer Science II (Java) · Discrete Mathematics · Linear Algebra · Mechanics
 
 ---
 
@@ -69,7 +69,7 @@ GPA: 3.86
 Tech: Python (Flask), MediaPipe, OpenCV, AI Integration
 An interactive system that tracks fingertip gestures to draw and solve complex math expressions, including derivatives and integrals. Features real-time hand tracking with smoothing filters, plus AI-generated step-by-step explanations and graphs.
 
-#### [College-Dashboard](#)
+#### [Edutrackr](#)
 Tech: React, Firebase, CSS
 A full-stack student productivity app with a GPA calculator, internship tracker, and assignment manager. Uses Firebase for secure Google authentication and cross-device cloud sync, with a responsive UI.
 
