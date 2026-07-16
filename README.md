@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gourav+Sharma;Full-Stack+Developer;Computer+Vision+%2B+ML+Builder;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
+# Hi, I'm Gourav Sharma 👋
 
-### CS @ UT Dallas | Building things people actually use
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Data+Scientist;Computer+Vision+Builder;CS+%40+UT+Dallas" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gourav-sharma1857.github.io/GOURAV-SHARMA-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-sharma-3b2558281)
@@ -58,10 +58,10 @@ Full-stack student productivity platform — 10+ integrated modules (GPA calcula
 </td>
 <td width="50%">
 
-**[📝 NotesCraft](https://github.com/gourav-sharma1857/NotesCraft)**
-Block-based notes app for technical writing — rich text, code blocks, real-time cloud sync, and auto-save via Firebase.
+**[🎬 Movie Revenue Predictor](https://gourav-sharma1857.github.io/Movie-Revenue-Predictor/)**
+LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office gross from budget, cast, and franchise history — transpiled to JS and running entirely client-side, no backend. Cross-val R² ≈ 0.43.
 
-`React` `Firebase` `CSS`
+`Python` `LightGBM` `Scikit-learn` `m2cgen`
 
 </td>
 </tr>
@@ -79,23 +79,29 @@ Block-based notes app for technical writing — rich text, code blocks, real-tim
 
 **Languages:** Python · JavaScript · TypeScript · Java · C++
 **Web:** React · Node.js · HTML/CSS · Tailwind CSS · SQL
-**Data / ML:** NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · XGBoost
+**Data / ML:** NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · XGBoost · LightGBM
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-sharma1857&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://leetcode-stats-card.vercel.app/api?username=GouravSharma5738&theme=dark&hide_border=true" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav-sharma1857&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav-sharma1857&theme=tokyonight&hide_border=true&card_width=800" />
+
 </div>
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=gourav-sharma1857&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
 
 ---
