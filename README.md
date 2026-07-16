@@ -100,7 +100,7 @@ LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gourav-sharma1857&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="[https://github-profile-trophy.vercel.app/?username=gourav-sharma1857&theme=tokyonight&no-frame=true&row=1&column=6](https://github-readme-stats-gourav.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=tokyonight&hide_border=true)" />
 
 </div>
 
