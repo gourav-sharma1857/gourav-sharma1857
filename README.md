@@ -104,8 +104,8 @@ LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office 
 
 </div>
 
----
-
+[---
+](https://leetcode-git-card.vercel.app/api/card?username=GouravSharma5738&difficulty=true&activity=true&skills=true)
 <div align="center">
 
 *Open to internships and collabs — let's build something.*
