@@ -103,9 +103,12 @@ LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office 
 <img src="[https://github-profile-trophy.vercel.app/?username=gourav-sharma1857&theme=tokyonight&no-frame=true&row=1&column=6](https://github-readme-stats-gourav.vercel.app/api?username=gourav-sharma1857&show_icons=true&theme=tokyonight&hide_border=true)" />
 
 </div>
-
-[---
-](https://leetcode-git-card.vercel.app/api/card?username=GouravSharma5738&difficulty=true&activity=true&skills=true)
+<img
+                            src="https://leetcode-git-card.vercel.app/api/card?username=GouravSharma5738&difficulty=true&activity=true&skills=true&badges=false"
+                            alt="LeetCode Stats"
+                            loading="lazy"
+                            style="max-width:100%; border-radius:12px;"
+                        />
 <div align="center">
 
 *Open to internships and collabs — let's build something.*
