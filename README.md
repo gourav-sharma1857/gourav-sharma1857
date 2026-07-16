@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Gourav Sharma 👋
+# Hi, I'm Gourav Sharma
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Engineer;Data+Scientist;Computer+Vision+Builder;CS+%40+UT+Dallas" alt="Typing SVG" />
 
@@ -15,24 +15,24 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 I engineer full-stack apps, computer vision systems, and data pipelines — then push them until the numbers are good enough to brag about. Recent favorite: an air-writing math solver that turns hand gestures into solved equations in real time.
 
-- 🎓 B.S. Computer Science, University of Texas at Dallas (Expected May 2028) — GPA 3.50
-- 🔭 Currently building ML-driven sports analytics tools
-- 🌱 Deepening my DSA + systems fundamentals
-- 💬 Ask me about computer vision, React/Firebase apps, or anything cricket-analytics related
+- B.S. Computer Science, University of Texas at Dallas (Expected May 2028) — GPA 3.50
+- Currently building ML-driven sports analytics tools
+- Deepening my DSA + systems fundamentals
+- Ask me about computer vision, React/Firebase apps, or anything cricket-analytics related
 
 ---
 
-### 🚀 Featured Builds
+### Featured Builds
 
 <table>
 <tr>
 <td width="50%">
 
-**[🖐️ Gesture-Math](https://github.com/gourav-sharma1857/Gesture-Math)** ⭐ 9
+**[Gesture-Math](https://github.com/gourav-sharma1857/Gesture-Math)** (9 stars)
 Air-writing math solver — MediaPipe hand tracking + Flask + Gemini API turns finger-drawn equations into step-by-step solutions, derivatives, integrals, and graphs. 90%+ recognition accuracy, 1.5s average response time.
 
 `Python` `Flask` `OpenCV` `MediaPipe` `Gemini API`
@@ -40,7 +40,7 @@ Air-writing math solver — MediaPipe hand tracking + Flask + Gemini API turns f
 </td>
 <td width="50%">
 
-**[🏏 IPL Analytics & Match Prediction](https://gourav-sharma1857.github.io/IPL-Analytics-Match-Prediction/)**
+**[IPL Analytics & Match Prediction](https://gourav-sharma1857.github.io/IPL-Analytics-Match-Prediction/)**
 End-to-end data pipeline over 1,243 matches and 295K+ deliveries. Uncovered a 26-run swing from the Impact Player rule and benchmarked 4 ML models for match/score prediction.
 
 `Python` `Pandas` `Scikit-learn` `XGBoost`
@@ -50,7 +50,7 @@ End-to-end data pipeline over 1,243 matches and 295K+ deliveries. Uncovered a 26
 <tr>
 <td width="50%">
 
-**[📚 EduTrackr](https://gourav-sharma1857.github.io/EduTrackr)**
+**[EduTrackr](https://gourav-sharma1857.github.io/EduTrackr)**
 Full-stack student productivity platform — 10+ integrated modules (GPA calculator, degree planner, task tracker, and more) on a unified React + Firebase data layer, live-syncing for 20+ concurrent users.
 
 `React` `Firebase` `Firestore`
@@ -58,7 +58,7 @@ Full-stack student productivity platform — 10+ integrated modules (GPA calcula
 </td>
 <td width="50%">
 
-**[🎬 Movie Revenue Predictor](https://gourav-sharma1857.github.io/Movie-Revenue-Predictor/)**
+**[Movie Revenue Predictor](https://gourav-sharma1857.github.io/Movie-Revenue-Predictor/)**
 LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office gross from budget, cast, and franchise history — transpiled to JS and running entirely client-side, no backend. Cross-val R² ≈ 0.43.
 
 `Python` `LightGBM` `Scikit-learn` `m2cgen`
@@ -69,7 +69,7 @@ LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -83,7 +83,7 @@ LightGBM model trained on 977 TMDB blockbusters to predict worldwide box office 
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
 
